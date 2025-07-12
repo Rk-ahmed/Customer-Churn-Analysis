@@ -9,9 +9,9 @@ I recently completed a Customer Churn Analysis project using SQL and Power BI to
 🔍 Key Metrics & Insights
 
 	✅ Total Customers: 6,418
- ✅ Total Churned Customers: 1,732
- ✅ New Joiners: 411
- ✅ Overall Churn Rate: 27%
+ 	✅ Total Churned Customers: 1,732
+ 	✅ New Joiners: 411
+ 	✅ Overall Churn Rate: 27%
 
 📌 Demographic Insights
 Gender Churn:
