@@ -6,6 +6,11 @@
 📊 Objective:
 	To identify key factors contributing to customer churn and provide data-driven recommendations that can help reduce churn rate and improve customer satisfaction.
 
+
+ Summary Dashboard: 
+
+ 	<img width="734" height="407" alt="Image" src="https://github.com/user-attachments/assets/2994e9e1-c279-4050-b235-7a6a49695351" />
+
 🔍 Key Metrics & Insights
 
 	✅ Total Customers: 6,418
