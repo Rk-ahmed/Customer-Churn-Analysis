@@ -1,12 +1,10 @@
 # Customer-Churn-Analysis
 
 🚨 Customer Churn Analysis | Power BI + SQL Project
-
 	I recently completed a Customer Churn Analysis project using SQL and Power BI to explore patterns, trends, and business risks related to customer retention.
 
 📊 Objective:
-
-	 To identify key factors contributing to customer churn and provide data-driven recommendations that can help reduce churn rate and improve customer satisfaction.
+	To identify key factors contributing to customer churn and provide data-driven recommendations that can help reduce churn rate and improve customer satisfaction.
 
 🔍 Key Metrics & Insights
 
