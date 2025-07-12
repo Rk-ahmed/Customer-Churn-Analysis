@@ -7,7 +7,8 @@ I recently completed a Customer Churn Analysis project using SQL and Power BI to
  To identify key factors contributing to customer churn and provide data-driven recommendations that can help reduce churn rate and improve customer satisfaction.
 
 🔍 Key Metrics & Insights
-✅ Total Customers: 6,418
+
+	✅ Total Customers: 6,418
  ✅ Total Churned Customers: 1,732
  ✅ New Joiners: 411
  ✅ Overall Churn Rate: 27%
